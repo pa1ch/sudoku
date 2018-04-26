@@ -1,4 +1,6 @@
 Sudoku solver by Chugaev Pavel aka A57RO
+chugaev1998@gmail.com
+t.me/a57r0
 
 1. Write your Sudoku in a file 'game.txt' in the format:
 ~~~
